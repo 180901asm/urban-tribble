@@ -1,0 +1,39 @@
+# --- Wi-Fi Status
+
+    MAC Address          : 96:a6:24:05:19:42 (hw=18:e6:71:f3:e5:85)
+    Interface Name       : en0
+    Power                : On [On]
+    Op Mode              : STA
+    SSID                 : ISK-5296GKS_J02
+    BSSID                : 00:d0:1d:8d:58:90
+    RSSI                 : -34 dBm
+    Noise                : -92 dBm
+    Tx Rate              : 573.0 Mbps
+    Security             : WPA2 Enterprise
+    802.1X Mode          : User
+    802.1X Supplicant    : Authenticated
+    PHY Mode             : 11ax
+    MCS Index            : 11
+    Guard Interval       : 0
+    NSS                  : 2
+    Channel              : 5g132/40
+    Country Code         : JP
+    NetworkServiceID     : D4F53DF4-3C2E-4915-9441-E414D5CB0290
+    IPv4 Config Method   : DHCP
+    IPv4 Address         : 10.22.22.138
+    IPv4 Router          : 10.22.23.254
+    IPv6 Config Method   : Automatic
+    IPv6 Address         : 2400:4052:43c3:2200:cca:cc84:40d0:1fe1
+    IPv6 Router          : fe80::221:d8ff:feaa:a4c2
+    DNS                  : 10.22.23.253
+                         : 10.22.20.6
+                         : 2404:1a8:7f01:b::3
+                         : 2404:1a8:7f01:a::3
+    BTC Mode             : Off
+    Desense              : Unavailable
+    Chain Ack            : Unavailable
+    SmartCCA/Desense     : Not Supported (USB=0)
+    Supports 6e          : No
+    Supported Channels   : 2g1/20,2g2/20,2g3/20,2g4/20,2g5/20,2g6/20,2g7/20,2g8/20,2g9/20,2g10/20,2g11/20,2g12/20,2g13/20,5g36/20,5g40/20,5g44/20,5g48/20,5g52/20,5g56/20,5g60/20,5g64/20,5g100/20,5g104/20,5g108/20,5g112/20,5g116/20,5g120/20,5g124/20,5g128/20,5g132/20,5g136/20,5g140/20,5g144/20,5g36/40,5g40/40,5g44/40,5g48/40,5g52/40,5g56/40,5g60/40,5g64/40,5g100/40,5g104/40,5g108/40,5g112/40,5g116/40,5g120/40,5g124/40,5g128/40,5g132/40,5g136/40,5g140/40,5g144/40,5g36/80,5g40/80,5g44/80,5g48/80,5g52/80,5g56/80,5g60/80,5g64/80,5g100/80,5g104/80,5g108/80,5g112/80,5g116/80,5g120/80,5g124/80,5g128/80,5g132/80,5g136/80,5g140/80,5g144/80,5g36/160,5g40/160,5g44/160,5g48/160,5g52/160,5g56/160,5g60/160,5g64/160,5g100/160,5g104/160,5g108/160,5g112/160,5g116/160,5g120/160,5g124/160,5g128/160
+
+
